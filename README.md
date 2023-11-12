@@ -3,9 +3,9 @@
 # AND101 Milestone 2 - **WorldView**
 
 Submitted by:
-**Romain Dzeinse**
-**Asit Das**
-**Yen Nguyen**
+**Romain Dzeinse,**
+**Asit Das,**
+**Yen Nguyen,**
 **Arthur Cheung**
 
 Time spent: **X** hours spent in total
