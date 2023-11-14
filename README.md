@@ -8,11 +8,11 @@ Submitted by:
 **Yen Nguyen,**
 **Arthur Cheung**
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project-building process for our app, **WorldView**
+This document provides a summary of our project-building process for our app, **WorldView**, an application that provides a more objecttive alternative to traditional news by presenting data instead of opinions to keep users informed about our diverse world. 
 
 ## Milestone Requirements
 
@@ -42,10 +42,11 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+https://drive.google.com/file/d/1OO9cFVK-YTk3WIpkFsGTQsRBnNDaMOdr/view?usp=sharing 
 
-VIDEO created with **your chosen video tool**
+<!-- VIDEO created with **your chosen view** -->
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+We were able to call more than one API in a single project and simuntaneously display information from the APIs. 
+
