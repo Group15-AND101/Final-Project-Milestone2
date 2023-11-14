@@ -3,7 +3,7 @@ package com.example.and_101_project_5
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.widget.Button
+import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var countryPopulations : MutableList<String>
 
     // user interaction elements in top half of screen
-    private lateinit var searchButton: Button
+    private lateinit var searchButton: ImageButton
     private lateinit var searchBar: TextView
 
     // holds RecyclerView
@@ -215,7 +215,7 @@ class MainActivity : AppCompatActivity() {
                         // extract JSON array from JSON response
                         val jsonArray = json.jsonArray
 
-                        //get country names from embeded JSON objects and stores them in "countryNames"
+                        //get country names from embeded JSON objects and stores them in "us"
                         for (i in 0 until jsonArray.length()) {
                             countryNames.add(jsonArray.getJSONObject(i).getJSONObject("name").getString("common"))
                             countryFlags.add(jsonArray.getJSONObject(i).getJSONObject("flags").getString("png"))
