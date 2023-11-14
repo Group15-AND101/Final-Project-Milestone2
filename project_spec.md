@@ -24,34 +24,29 @@
 
 Required Features:
 
-- **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
-- **Implement a way to refresh data**
-- **Display data by country/region**
+[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
+[x] **Implement a way to refresh data**
+[x] **Display data by country/region**
 
 Stretch Features:
 
-- **Display game data of choice**
-- **Display fashion data of choice**
+[ ] **Display game data of choice**
+[ ] **Display fashion data of choice**
 
 ### 2. Chosen API(s)
-- **World Bank API: (https://documents.worldbank.org/en/publication/documents-reports/api)**
-- - Get Country and Lending Group Data: Present information about different countries, including population sizes, income levels, and classifications.
-
-- - Get Income Level Data: Display the distribution of the world's income levels and poverty rates to inform users about economic disparities.
-
-- **Country API: (https://api-ninjas.com/api/country)**
-- **Country Query API: (https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries)**
+[x] **Country API: (https://api-ninjas.com/api/country)**
+[x] **REST Countries API: (https://restcountries.com/v3.1/all)**
 
 ### 3. User Interaction
 
-Required Feature
+Required Features
 
-- **user action (Refresh button - onClick)**
-  - => **data will be refreshed**
-  - **display random ordered list of countries**
-- **user action (Get WorldView - text entry, onclick)**
-    - **user enter country name**
-    - =>**Displayed sorted data by country name**
+[x] **user action (Refresh/Search button - onClick)**
+  [x] => **data will be refreshed**
+[x] **display random ordered list of countries**
+[x] **user action (Get WorldView - text entry, onclick)**
+    [x] **user enter country name**
+    [x] =>**Displayed sorted data by country name**
     
 ## Wireframes
 
@@ -69,6 +64,13 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+
+UI: 
+
+https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/f0390e25-2e90-4d1a-b67b-2809efa30b2c
+
+Backend: 
+
 
 ## License
 
