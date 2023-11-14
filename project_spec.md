@@ -53,9 +53,9 @@ Required Features
 
 -[x] **user action (Get WorldView - text entry, onclick)**
 
-   -[x] **user enter country name**
+---[x] **user enter country name**
     
-   -[x] **Displayed sorted data by country name**
+---[x] **Displayed sorted data by country name**
     
 ## Wireframes
 
