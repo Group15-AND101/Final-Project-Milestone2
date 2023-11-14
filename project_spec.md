@@ -24,7 +24,7 @@
 
 Required Features:
 
- -[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
+-[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
 
 -[x] **Implement a way to refresh data**
 
@@ -47,7 +47,7 @@ Required Features
 
 -[x] **user action (Refresh/Search button - onClick)**
 
-   -[x] **data will be refreshed**
+---[x] **data will be refreshed**
 
 -[x] **display random ordered list of countries**
 
