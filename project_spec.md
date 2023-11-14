@@ -45,15 +45,15 @@ Required Features
 
 [x] **user action (Refresh/Search button - onClick)**
 
-  [x] => **data will be refreshed**
+- [x] **data will be refreshed**
   
 [x] **display random ordered list of countries**
 
 [x] **user action (Get WorldView - text entry, onclick)**
 
-    [x] **user enter country name**
+- [x] **user enter country name**
     
-    [x] =>**Displayed sorted data by country name**
+-- [x] **Displayed sorted data by country name**
     
 ## Wireframes
 
