@@ -12,7 +12,7 @@ Time spent: **20** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project-building process for **WorldView**: an application that provides a more objecttive alternative to traditional news by presenting data instead of opinions to keep users informed about our diverse world
+This document provides a summary of our project-building process for **WorldView**: an application that provides a more objecttive alternative to traditional news by presenting data instead of opinions to keep users informed about our diverse world.
 
 ## Milestone Requirements
 
