@@ -36,6 +36,7 @@ Stretch Features:
 
 ### 2. Chosen API(s)
 [x] **Country API: (https://api-ninjas.com/api/country)**
+
 [x] **REST Countries API: (https://restcountries.com/v3.1/all)**
 
 ### 3. User Interaction
