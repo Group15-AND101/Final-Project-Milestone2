@@ -25,7 +25,9 @@
 Required Features:
 
 -[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
+
 -[x] **Implement a way to refresh data**
+
 -[x] **Display data by country/region**
 
 Stretch Features:
