@@ -31,6 +31,7 @@ Required Features:
 Stretch Features:
 
 [ ] **Display game data of choice**
+
 [ ] **Display fashion data of choice**
 
 ### 2. Chosen API(s)
