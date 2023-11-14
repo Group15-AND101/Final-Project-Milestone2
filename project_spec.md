@@ -76,8 +76,16 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
 UI: 
 
+https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/c3624084-d91a-49cd-a03f-4d922c6feb6b
+
+
+
 
 Backend: 
+
+https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/b52cf0c3-f604-4037-a3bc-22da5c416b00
+
+
 
 
 
