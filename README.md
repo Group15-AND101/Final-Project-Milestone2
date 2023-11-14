@@ -29,7 +29,7 @@ The following REQUIRED files are included:
   - [X] App Overview (Milestone 1)
   - [X] App Spec (Milestone 1)
   - [x] Checked off 2+ completed features
-  - [ ] 2+ Videos/GIFs of build progress
+  - [x] 2+ Videos/GIFs of build progress
 
 - [x] Our 🎥 Demo Video
   - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
@@ -48,5 +48,5 @@ https://drive.google.com/file/d/1OO9cFVK-YTk3WIpkFsGTQsRBnNDaMOdr/view?usp=shari
 
 ## Notes
 
-We were able to call more than one API in a single project and simuntaneously display information from the APIs. 
+We were able to call more than one API in a this project and simuntaneously display information from the APIs. 
 
