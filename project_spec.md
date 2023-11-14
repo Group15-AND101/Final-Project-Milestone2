@@ -91,7 +91,7 @@ https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/b52cf
 
 ## License
 
-Copyright **2023** **Asit Das, Yen Nyugen, Romaine Dzeinse, Arthur Cheung**
+Copyright **2023** **Asit Das, Yen Nyugen, Romain Dzeinse, Arthur Cheung**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
