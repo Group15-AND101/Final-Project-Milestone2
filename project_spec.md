@@ -66,10 +66,10 @@ process, or what you learned this unit!
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
 UI: 
-
-https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/f0390e25-2e90-4d1a-b67b-2809efa30b2c
+https://github.com/Group15-AND101/Final-Project-Milestone2/assets/93416653/d73dafef-4c1d-4552-b31d-241a9bfc5c8f
 
 Backend: 
+
 
 
 ## License
