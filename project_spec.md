@@ -24,36 +24,36 @@
 
 Required Features:
 
-[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
-[x] **Implement a way to refresh data**
-[x] **Display data by country/region**
+-[x] **Display one or more views (TextView, ImageView, etc.) using a RecyclerView**
+-[x] **Implement a way to refresh data**
+-[x] **Display data by country/region**
 
 Stretch Features:
 
-[ ] **Display game data of choice**
+-[ ] **Display game data of choice**
 
-[ ] **Display fashion data of choice**
+-[ ] **Display fashion data of choice**
 
 ### 2. Chosen API(s)
-[x] **Country API: (https://api-ninjas.com/api/country)**
+-[x] **Country API: (https://api-ninjas.com/api/country)**
 
-[x] **REST Countries API: (https://restcountries.com/v3.1/all)**
+-[x] **REST Countries API: (https://restcountries.com/v3.1/all)**
 
 ### 3. User Interaction
 
 Required Features
 
-[x] **user action (Refresh/Search button - onClick)**
+-[x] **user action (Refresh/Search button - onClick)**
 
-- [x] **data will be refreshed**
-  
-[x] **display random ordered list of countries**
+    -[x] **data will be refreshed**
 
-[x] **user action (Get WorldView - text entry, onclick)**
+-[x] **display random ordered list of countries**
 
-- [x] **user enter country name**
+-[x] **user action (Get WorldView - text entry, onclick)**
+
+    -[x] **user enter country name**
     
--- [x] **Displayed sorted data by country name**
+    -[x] **Displayed sorted data by country name**
     
 ## Wireframes
 
